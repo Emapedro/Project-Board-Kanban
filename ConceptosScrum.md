@@ -14,9 +14,10 @@ Se le conoce a todos los elementos de la gestion de transparecia como Artefacnto
 Artefacto de Scrum:
 - Product Backlog
 - Sprin backlog
-- Increment
+- Increment.
+
 Product Backlog:
-Es una lista ordenada de requerimiento para la elaboracion del proyecto. EEl Product Owner es el encargado de realizar cambios.
+Es una lista ordenada de requerimiento para la elaboracion del proyecto. El Product Owner es el encargado de realizar cambios.
 El product backlog es de mucha ayuda porque es dinamico aun que puede estar en constante cambio para que puedas identificar que se va necesitando o mejorando.
 Sprint Backlog:
 Es el conjunto de Product Backlog seleccionados para el sprint para que puedas alcanzar el Sprint Goal(meta del sprint).
