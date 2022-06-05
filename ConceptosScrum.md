@@ -19,9 +19,11 @@ Artefacto de Scrum:
 Product Backlog:
 Es una lista ordenada de requerimiento para la elaboracion del proyecto. El Product Owner es el encargado de realizar cambios.
 El product backlog es de mucha ayuda porque es dinamico aun que puede estar en constante cambio para que puedas identificar que se va necesitando o mejorando.
+
 Sprint Backlog:
 Es el conjunto de Product Backlog seleccionados para el sprint para que puedas alcanzar el Sprint Goal(meta del sprint).
 El sprint backlog es una meta echa por el Development Team acerca de que funcionalidad formara parte del proximo incremento y que trabajos son necesario para dicha funcionalidad.
+
 Incremento:
 Es la suma de todos los elementos del product Backlog completados durante el sprint.
 No se debe considerar como un increment a prototipos,modulos ni partes terminadas o pendientes de pruebas.
