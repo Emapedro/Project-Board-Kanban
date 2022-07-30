@@ -29,3 +29,12 @@ Es la suma de todos los elementos del product Backlog completados durante el spr
 No se debe considerar como un increment a prototipos,modulos ni partes terminadas o pendientes de pruebas.
 Todos los increment deben estar en condiciones de utilizarse aun que el Product Owner decide o no liberarlo, por lo cual el increment es un cuerpo de trabajo terminado que respalda el empirismo del Sprint.
 # Roles:
+
+Product Owner:
+El Product Owner es el encargado de optimizar y maximizar el valor del producto, siendo la persona encargada de gestionar el flujo de valor del producto a través del Product Backlog.
+
+Scrum Master:
+El Scrum Master tiene dos funciones principales dentro del marco de trabajo: gestionar el proceso Scrum y ayudar a eliminar impedimentos que puedan afectar a la entrega del producto.
+
+El equipo de desarrollo: 
+Formado por desarrolladores que se encargan de llevar a cabo el producto, auto-organizándose y auto-gestionándose para conseguir entregar un incremento de software al final del ciclo de desarrollo.
