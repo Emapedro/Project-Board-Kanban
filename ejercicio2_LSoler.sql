@@ -69,13 +69,18 @@ INSERT INTO dueno (DNI, nombre, apellido, telefono, direccion) VALUES ( 23685111
 INSERT INTO perro (nombre, fecha_nac, sexo, DNI_dueno) VALUES ('Poroto', '2022-07-14', 'Macho', 23685111);
 INSERT INTO historial (fecha, perro, descripcion, monto) VALUES ('2022-08-08', 7, 'Vacunación y desparacitante', 1600);
 
-
 # C. 4. Actualice la fecha de nacimiento de algún animal (perro) que usted considere:
 UPDATE perro SET fecha_nac = '2017-10-10'
 WHERE DNI_dueno = '31502410';
 
 UPDATE perro SET fecha_nac = '2018-07-14'
 WHERE DNI_dueno = '23685111';
+
+UPDATE historial SET fecha = '2022-07-08'
+WHERE perro = '7';
+
+# C. 7. Obtener los ingresos percibidos en Julio del 2022:
+SELECT monto FROM historial WHERE fecha >= '2022-07-01' AND fecha <= '2022-07-31';
 
 # Mostrar las tablas:
 SELECT * FROM dueno;
