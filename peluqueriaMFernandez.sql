@@ -6,7 +6,7 @@ create table dueno(
     apellido varchar(40),
     telefono varchar(20),
     direccion varchar(50),
-    constraint primary key(dni)
+    constraint pk_dueno primary key(dni)
 );
 
 create table perro(
